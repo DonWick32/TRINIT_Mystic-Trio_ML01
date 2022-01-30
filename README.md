@@ -6,7 +6,7 @@ The developers are,<br>
 - Sai Pranav M (Sai-Pranav2503) <br>
 <br>
 <br>
-Inorder to run the program successfully, the following modules must be installed (using CMD "pip install <module_name>"):<br>
+Inorder to run the program successfully, the following modules must be installed (using CMD "pip install module_name"):<br>
 - requests <br>
 - string <br>
 - lxml <br>
