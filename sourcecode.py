@@ -12,7 +12,7 @@ import pandas as pd
 def chatbot(query, index=0):
     global final
     final = ''
-    defo = 'Sorry, no response available.'
+    defo = ''Sorry, I can't think of a reply for it'
 
     try:
         Search = list(search(query, tld="co.in", num=10, stop=3, pause=1))
